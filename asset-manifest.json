@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spring_fest_assignment_3/static/css/main.281a7738.css",
+    "main.js": "/spring_fest_assignment_3/static/js/main.486ee36c.js",
+    "static/media/bjk.jpg": "/spring_fest_assignment_3/static/media/bjk.50b27015ad1e953d749e.jpg",
+    "index.html": "/spring_fest_assignment_3/index.html",
+    "main.281a7738.css.map": "/spring_fest_assignment_3/static/css/main.281a7738.css.map",
+    "main.486ee36c.js.map": "/spring_fest_assignment_3/static/js/main.486ee36c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.281a7738.css",
+    "static/js/main.486ee36c.js"
+  ]
+}
